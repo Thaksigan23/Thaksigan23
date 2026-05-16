@@ -23,7 +23,7 @@ education   : BSc in Information Technology
 pronouns    : He / Him
 interests   : Video Gaming 🎮 | Coding 💻 | F1 Racing 🏎️
 contact     : thaksithaksigan@gmail.com
-fun_fact    : Lewis Hamilton #44 is GOAT, no debate 🏆
+fun_fact    : Lewis Hamilton #44 is GOAT, no debate , 7tWC 🏆
 ```
 
 <br/>
